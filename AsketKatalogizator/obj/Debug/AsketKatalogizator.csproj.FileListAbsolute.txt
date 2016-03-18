@@ -1,0 +1,17 @@
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\bin\Debug\AsketKatalogizator.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\bin\Debug\AsketKatalogizator.exe
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\bin\Debug\AsketKatalogizator.pdb
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\MainWindow.g.cs
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\App.g.cs
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator_MarkupCompile.cache
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator_MarkupCompile.lref
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\MainWindow.baml
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.g.resources
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.Properties.Resources.resources
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.csproj.GenerateResource.Cache
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.exe
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator.pdb
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+c:\users\andre\documents\visual studio 2015\Projects\AsketKatalogizator\AsketKatalogizator\obj\Debug\AsketKatalogizator_Content.g.cs
